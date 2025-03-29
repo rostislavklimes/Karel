@@ -1,7 +1,7 @@
 ﻿
 using Karel;
 using KarelLanguage.Objects;
-using LanguageKarel.Model;
+using LanguageKarel.Models;
 
 //Console.WriteLine("Hello, World!");
 //var robot = new RobotKarel();

@@ -1,4 +1,4 @@
-﻿namespace LanguageKarel.Model;
+﻿namespace LanguageKarel.Models;
 
 /// <summary>
 /// Směry, kterými může být Karel otočen.

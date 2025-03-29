@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace LanguageKarel.Model;
+namespace LanguageKarel.Models;
 
 /// <summary>
 /// Třída reprezentující pozici v městě.

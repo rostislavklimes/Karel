@@ -1,5 +1,5 @@
 ﻿using System.Runtime.Serialization;
-using LanguageKarel.Model;
+using LanguageKarel.Models;
 
 namespace KarelLanguage.Objects;
 
